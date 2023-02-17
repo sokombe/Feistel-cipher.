@@ -84,7 +84,7 @@ public class CyberSecurity {
         
       /*  System.out.println("VOICI NOTRE H:");*/
         for (int i = 0; i < H.length; i++) {
-            System.out.println("L'élément à la position"+i+" est:"+H[i]);
+            System.out.println("L'élement à la position"+i+" est:"+H[i]);
         }
         
         Scanner valeurCle = new  Scanner(System.in);
@@ -94,6 +94,7 @@ public class CyberSecurity {
          
           
           }
+          
          K=tempo;*/
        int[] tempo;
          
